@@ -1,0 +1,132 @@
+D:\Widhi\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+D:\Widhi\TubesAI\TubesAI\bin\Debug\TubesAI.exe
+D:\Widhi\TubesAI\TubesAI\bin\Debug\TubesAI.pdb
+D:\Widhi\TubesAI\TubesAI\obj\Debug\TubesAI.csprojResolveAssemblyReference.cache
+D:\Widhi\TubesAI\TubesAI\obj\Debug\TubesAI.Form1.resources
+D:\Widhi\TubesAI\TubesAI\obj\Debug\TubesAI.Properties.Resources.resources
+D:\Widhi\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.GenerateResource.Cache
+D:\Widhi\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+D:\Widhi\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+D:\Widhi\TubesAI\TubesAI\obj\Debug\TubesAI.Data.resources
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\bin\Debug\TubesAI.exe
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\bin\Debug\TubesAI.pdb
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.csprojResolveAssemblyReference.cache
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.Data.resources
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.Form1.resources
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.Properties.Resources.resources
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.GenerateResource.Cache
+D:\IF UTAMA\Semester 4\AI\TubesAI\TubesAI\obj\Debug\TubesAI.Resources.Resource1.resources
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.exe
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.pdb
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csprojResolveAssemblyReference.cache
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Data.resources
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Form1.resources
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Properties.Resources.resources
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Resources.Resource1.resources
+D:\Semester 4\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.GenerateResource.Cache
+E:\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csprojResolveAssemblyReference.cache
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Data.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Form1.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Properties.Resources.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.GenerateResource.Cache
+E:\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.exe
+E:\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.pdb
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.MessageForm.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.cmd.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Log.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\MySql.Data.dll
+E:\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\MySqlBackup.dll
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.SplashScreen.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\Interop.WMPLib.dll
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.ResolveComReference.cache
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.MusicPlayer.resources
+E:\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\Interop.WMPLib.dll
+E:\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\AxInterop.WMPLib.dll
+E:\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.ResolveComReference.cache
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.exe
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\TubesAI.pdb
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\MySql.Data.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\MySqlBackup.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.cmd.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Data.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Form1.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Log.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.MessageForm.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.MusicPlayer.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.Properties.Resources.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.SplashScreen.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.GenerateResource.Cache
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.ResolveComReference.cache
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\TubesAI.exe
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\TubesAI.pdb
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\MySql.Data.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\MySqlBackup.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.cmd.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Data.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Form1.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Log.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.MessageForm.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.MusicPlayer.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Properties.Resources.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.SplashScreen.resources
+C:\Users\ASUS X45OJN\Desktop\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.GenerateResource.Cache
+D:\@ Dayi Fiadi\Kuliah\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+D:\@ Dayi Fiadi\Kuliah\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\Interop.WMPLib.dll
+D:\@ Dayi Fiadi\Kuliah\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\AxInterop.WMPLib.dll
+D:\@ Dayi Fiadi\Kuliah\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.ResolveComReference.cache
+D:\@ Dayi Fiadi\Kuliah\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+D:\@ Dayi Fiadi\Kuliah\Semester IV\Artificial Intelegence\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\TubesAI.exe.config
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\Interop.WMPLib.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\AxInterop.WMPLib.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.ResolveComReference.cache
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.exe
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.pdb
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\TubesAI.exe
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\TubesAI.pdb
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\MySql.Data.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\MySqlBackup.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\Interop.WMPLib.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\bin\Debug\AxInterop.WMPLib.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.csprojResolveAssemblyReference.cache
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.cmd.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Data.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Form1.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Log.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.MessageForm.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.MusicPlayer.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.Properties.Resources.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.SplashScreen.resources
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\TubesAI\TubesAI\obj\Debug\TubesAI.csproj.GenerateResource.Cache
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Program\TubesAI\bin\Debug\TubesAI.exe.config
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Program\TubesAI\obj\Debug\Interop.WMPLib.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Program\TubesAI\obj\Debug\AxInterop.WMPLib.dll
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Program\TubesAI\obj\Debug\TubesAI.csproj.ResolveComReference.cache
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Program\TubesAI\obj\Debug\TubesAI.exe
+D:\College\semester 4\AI\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Antificial Intelligent (Bagas M, Isnani W, Dayi F)\Program\TubesAI\obj\Debug\TubesAI.pdb
